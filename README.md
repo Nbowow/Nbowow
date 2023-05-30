@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&text=Nbowow&fontColor=ffffff&fontSize=70&animation=fadeIn)
+</div>
 
