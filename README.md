@@ -51,7 +51,10 @@ Here are some ideas to get you started:
   
   <br/>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nbowow&show_icons=true&theme=radical)
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nbowow&show_icons=true&theme=radical) -->
+  
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Nbowow" /></a>
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbowow&layout=compact" /></a> 
   
   
   
