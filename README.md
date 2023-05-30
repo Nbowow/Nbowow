@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Nbowow/Nbowow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +16,36 @@ Here are some ideas to get you started:
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&text=Nbowow&fontColor=ffffff&fontSize=70&animation=fadeIn)
+  
+  #### :wave: Welcome to my github profile 👋
+  
+  <br/>
+  <br/>
+  
+  #### :clipboard: Once I've Used
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+  
+  <br/>
+  <br/>
+  
+  #### :pencil2: Study log
+  
+  <br/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nbowow&show_icons=true&theme=radical)
+  
+  
+  
 </div>
 
