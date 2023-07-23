@@ -58,7 +58,8 @@ Here are some ideas to get you started:
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Nbowow" /></a>
   <br/> <br/> <br/>
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nbowow&layout=compact" /></a> 
-  
+  <br/> <br/> <br/>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nbo5548)](https://solved.ac/nbo5548)
   
    
 </div>
