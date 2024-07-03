@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   
-  #### :clipboard: Once I've Used
+  #### :clipboard: Studying
    
   <br/>
   
