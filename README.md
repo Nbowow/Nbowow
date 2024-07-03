@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&text=Nbowow&fontColor=ffffff&fontSize=70&animation=fadeIn)
   
   #### :wave: Welcome to Nbowow 👋
-  
+  <hr>
   <br/>
   <br/>
   
@@ -60,10 +60,10 @@ Here are some ideas to get you started:
   
   
   
-  
   <br/>
   <br/>
   <br/>
+
   
   #### :pencil2: Study log
   
