@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   #### :clipboard: Studying
    
   <br/>
-  <img src="https://img.shields.io/badge/MicroService Architecture-3693F3?style=flat&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MicroService Architecture-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
 
   <br/>
   
