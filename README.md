@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    
   <br/>
   <img src="https://img.shields.io/badge/MicroService Architecture-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <br/>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
